@@ -4,3 +4,6 @@ E:\e-commerce\Ecom\Ecom.Entites\obj\Debug\netcoreapp2.0\Ecom.Entites.csprojResol
 E:\e-commerce\Ecom\Ecom.Entites\obj\Debug\netcoreapp2.0\Ecom.Entites.csproj.CoreCompileInputs.cache
 E:\e-commerce\Ecom\Ecom.Entites\obj\Debug\netcoreapp2.0\Ecom.Entites.AssemblyInfoInputs.cache
 E:\e-commerce\Ecom\Ecom.Entites\obj\Debug\netcoreapp2.0\Ecom.Entites.AssemblyInfo.cs
+E:\e-commerce\Ecom\Ecom.Entites\bin\Debug\netcoreapp2.0\Ecom.Entites.pdb
+E:\e-commerce\Ecom\Ecom.Entites\obj\Debug\netcoreapp2.0\Ecom.Entites.dll
+E:\e-commerce\Ecom\Ecom.Entites\obj\Debug\netcoreapp2.0\Ecom.Entites.pdb

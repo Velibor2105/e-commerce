@@ -1,0 +1,11 @@
+E:\e-commerce\Ecom\Ecom.Repository\bin\Debug\netcoreapp2.0\Ecom.Repository.deps.json
+E:\e-commerce\Ecom\Ecom.Repository\bin\Debug\netcoreapp2.0\Ecom.Repository.dll
+E:\e-commerce\Ecom\Ecom.Repository\bin\Debug\netcoreapp2.0\Ecom.Repository.pdb
+E:\e-commerce\Ecom\Ecom.Repository\bin\Debug\netcoreapp2.0\Ecom.Entites.dll
+E:\e-commerce\Ecom\Ecom.Repository\bin\Debug\netcoreapp2.0\Ecom.Entites.pdb
+E:\e-commerce\Ecom\Ecom.Repository\obj\Debug\netcoreapp2.0\Ecom.Repository.csprojResolveAssemblyReference.cache
+E:\e-commerce\Ecom\Ecom.Repository\obj\Debug\netcoreapp2.0\Ecom.Repository.csproj.CoreCompileInputs.cache
+E:\e-commerce\Ecom\Ecom.Repository\obj\Debug\netcoreapp2.0\Ecom.Repository.AssemblyInfoInputs.cache
+E:\e-commerce\Ecom\Ecom.Repository\obj\Debug\netcoreapp2.0\Ecom.Repository.AssemblyInfo.cs
+E:\e-commerce\Ecom\Ecom.Repository\obj\Debug\netcoreapp2.0\Ecom.Repository.dll
+E:\e-commerce\Ecom\Ecom.Repository\obj\Debug\netcoreapp2.0\Ecom.Repository.pdb

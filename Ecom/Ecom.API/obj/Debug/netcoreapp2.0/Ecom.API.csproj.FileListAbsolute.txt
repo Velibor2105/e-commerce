@@ -1,0 +1,13 @@
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.API.deps.json
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.API.runtimeconfig.json
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.API.runtimeconfig.dev.json
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.API.dll
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.API.pdb
+E:\e-commerce\Ecom\Ecom.API\obj\Debug\netcoreapp2.0\Ecom.API.csprojResolveAssemblyReference.cache
+E:\e-commerce\Ecom\Ecom.API\obj\Debug\netcoreapp2.0\Ecom.API.csproj.CoreCompileInputs.cache
+E:\e-commerce\Ecom\Ecom.API\obj\Debug\netcoreapp2.0\Ecom.API.AssemblyInfoInputs.cache
+E:\e-commerce\Ecom\Ecom.API\obj\Debug\netcoreapp2.0\Ecom.API.AssemblyInfo.cs
+E:\e-commerce\Ecom\Ecom.API\obj\Debug\netcoreapp2.0\Ecom.API.dll
+E:\e-commerce\Ecom\Ecom.API\obj\Debug\netcoreapp2.0\Ecom.API.pdb
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.LoggerService.dll
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.LoggerService.pdb

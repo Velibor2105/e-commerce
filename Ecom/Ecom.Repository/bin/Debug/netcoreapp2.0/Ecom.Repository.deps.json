@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Ecom.Entites/1.0.0": {
+      "Ecom.Repository/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1"
+          "Ecom.Entites": "1.0.0"
         },
         "runtime": {
-          "Ecom.Entites.dll": {}
+          "Ecom.Repository.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/2.1.1": {
@@ -472,11 +472,19 @@
           "Microsoft.NETCore.Targets": "1.0.1",
           "System.Runtime": "4.1.0"
         }
+      },
+      "Ecom.Entites/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1"
+        },
+        "runtime": {
+          "Ecom.Entites.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "Ecom.Entites/1.0.0": {
+    "Ecom.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -858,6 +866,11 @@
       "sha512": "sha512-k1S4Gc6IGwtHGT8188RSeGaX86Qw/wnrgNLshJvsdNUOPP9etMmo8S07c+UlOAx4K/xLuN9ivA1bD0LVurtIxQ==",
       "path": "system.threading.tasks/4.0.11",
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
+    },
+    "Ecom.Entites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
