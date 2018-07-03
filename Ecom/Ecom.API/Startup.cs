@@ -17,13 +17,14 @@ namespace Ecom.API
 {
     public class Startup
     {
+
+        public IConfiguration Configuration { get; }
+
         public Startup(IConfiguration configuration)
         {
             LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
             Configuration = configuration;
         }
-
-        public IConfiguration Configuration { get; }
 
         public void ConfigureServices(IServiceCollection services)
         {
@@ -33,6 +34,10 @@ namespace Ecom.API
 
             services.ConfigureLoggerService();
 
+            services.ConfigureSqlServerContext(Configuration);
+
+            services.ConfigureRepositoryWrapper();
+            
             services.AddMvc();
         }
 

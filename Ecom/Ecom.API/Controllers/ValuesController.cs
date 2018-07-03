@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Ecom.LoggerService.Contracts;
+using Ecom.Repository.Contracts;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ecom.API.Controllers
@@ -11,19 +12,18 @@ namespace Ecom.API.Controllers
     public class ValuesController : Controller
     {
         private ILoggerManager _logger;
+        private IRepositoryWrapper _repoWrapper;
 
-        public ValuesController(ILoggerManager logger)
+        public ValuesController(ILoggerManager logger, IRepositoryWrapper repoWrapper)
         {
             _logger = logger;
+            _repoWrapper = repoWrapper;
         }
         // GET api/values
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            _logger.LogInfo("Here is info message from our values controller.");
-            _logger.LogDebug("Here is debug message from our values controller.");
-            _logger.LogWarn("Here is warn message from our values controller.");
-            _logger.LogError("Here is error message from our values controller.");
+            var shops = _repoWrapper.Item.FindAll();
 
             return new string[] { "value1", "value2" };
         }

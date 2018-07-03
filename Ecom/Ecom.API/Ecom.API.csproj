@@ -17,7 +17,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ecom.Entites\Ecom.Entites.csproj" />
     <ProjectReference Include="..\Ecom.LoggerService\Ecom.LoggerService.csproj" />
+    <ProjectReference Include="..\Ecom.Repository\Ecom.Repository.csproj" />
   </ItemGroup>
 
 </Project>

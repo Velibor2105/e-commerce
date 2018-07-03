@@ -24,7 +24,7 @@ namespace Ecom.Entites.Models
         [Required(ErrorMessage = "Date created is required")]
         public string Email { get; set; }
 
-        public decimal Score { get; set; }
+        public decimal? Score { get; set; }
 
     }
 }

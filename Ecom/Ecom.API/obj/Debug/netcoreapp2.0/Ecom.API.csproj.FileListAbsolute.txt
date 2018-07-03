@@ -11,3 +11,7 @@ E:\e-commerce\Ecom\Ecom.API\obj\Debug\netcoreapp2.0\Ecom.API.dll
 E:\e-commerce\Ecom\Ecom.API\obj\Debug\netcoreapp2.0\Ecom.API.pdb
 E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.LoggerService.dll
 E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.LoggerService.pdb
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.Entites.dll
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.Repository.dll
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.Entites.pdb
+E:\e-commerce\Ecom\Ecom.API\bin\Debug\netcoreapp2.0\Ecom.Repository.pdb

@@ -21,7 +21,7 @@ namespace Ecom.Entites.Models
 
         public string Weightt { get; set; }
 
-        public byte[] Image { get; set; }
+        public byte[] Imagee { get; set; }
 
         [Required(ErrorMessage = "Shop Id is required")]
         public Guid ShopId { get; set; }    
