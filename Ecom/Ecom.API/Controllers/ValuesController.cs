@@ -23,7 +23,7 @@ namespace Ecom.API.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            var shops = _repoWrapper.Item.FindAll();
+            var shops = _repoWrapper.Item.FindByCondition(item => item.Name.Contains("del"));
 
             return new string[] { "value1", "value2" };
         }

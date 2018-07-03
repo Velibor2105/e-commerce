@@ -3425,11 +3425,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\e-commerce\\Ecom\\Ecom.Entites\\Ecom.Entites.csproj",
+      "projectUniqueName": "D:\\Work\\e-commerce\\Ecom\\Ecom.Entites\\Ecom.Entites.csproj",
       "projectName": "Ecom.Entites",
-      "projectPath": "E:\\e-commerce\\Ecom\\Ecom.Entites\\Ecom.Entites.csproj",
+      "projectPath": "D:\\Work\\e-commerce\\Ecom\\Ecom.Entites\\Ecom.Entites.csproj",
       "packagesPath": "C:\\Users\\v.stancic\\.nuget\\packages\\",
-      "outputPath": "E:\\e-commerce\\Ecom\\Ecom.Entites\\obj\\",
+      "outputPath": "D:\\Work\\e-commerce\\Ecom\\Ecom.Entites\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

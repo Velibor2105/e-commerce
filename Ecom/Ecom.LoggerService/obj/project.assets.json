@@ -714,11 +714,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\e-commerce\\Ecom\\Ecom.LoggerService\\Ecom.LoggerService.csproj",
+      "projectUniqueName": "D:\\Work\\e-commerce\\Ecom\\Ecom.LoggerService\\Ecom.LoggerService.csproj",
       "projectName": "Ecom.LoggerService",
-      "projectPath": "E:\\e-commerce\\Ecom\\Ecom.LoggerService\\Ecom.LoggerService.csproj",
+      "projectPath": "D:\\Work\\e-commerce\\Ecom\\Ecom.LoggerService\\Ecom.LoggerService.csproj",
       "packagesPath": "C:\\Users\\v.stancic\\.nuget\\packages\\",
-      "outputPath": "E:\\e-commerce\\Ecom\\Ecom.LoggerService\\obj\\",
+      "outputPath": "D:\\Work\\e-commerce\\Ecom\\Ecom.LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

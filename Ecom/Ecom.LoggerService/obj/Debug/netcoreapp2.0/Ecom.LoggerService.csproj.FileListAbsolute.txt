@@ -7,3 +7,12 @@ E:\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService
 E:\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.AssemblyInfo.cs
 E:\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.dll
 E:\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.pdb
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\bin\Debug\netcoreapp2.0\Ecom.LoggerService.deps.json
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\bin\Debug\netcoreapp2.0\Ecom.LoggerService.dll
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\bin\Debug\netcoreapp2.0\Ecom.LoggerService.pdb
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.csprojResolveAssemblyReference.cache
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.csproj.CoreCompileInputs.cache
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.AssemblyInfoInputs.cache
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.AssemblyInfo.cs
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.dll
+D:\Work\e-commerce\Ecom\Ecom.LoggerService\obj\Debug\netcoreapp2.0\Ecom.LoggerService.pdb

@@ -3443,11 +3443,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\e-commerce\\Ecom\\Ecom.Repository\\Ecom.Repository.csproj",
+      "projectUniqueName": "D:\\Work\\e-commerce\\Ecom\\Ecom.Repository\\Ecom.Repository.csproj",
       "projectName": "Ecom.Repository",
-      "projectPath": "E:\\e-commerce\\Ecom\\Ecom.Repository\\Ecom.Repository.csproj",
+      "projectPath": "D:\\Work\\e-commerce\\Ecom\\Ecom.Repository\\Ecom.Repository.csproj",
       "packagesPath": "C:\\Users\\v.stancic\\.nuget\\packages\\",
-      "outputPath": "E:\\e-commerce\\Ecom\\Ecom.Repository\\obj\\",
+      "outputPath": "D:\\Work\\e-commerce\\Ecom\\Ecom.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3467,8 +3467,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\e-commerce\\Ecom\\Ecom.Entites\\Ecom.Entites.csproj": {
-              "projectPath": "E:\\e-commerce\\Ecom\\Ecom.Entites\\Ecom.Entites.csproj"
+            "D:\\Work\\e-commerce\\Ecom\\Ecom.Entites\\Ecom.Entites.csproj": {
+              "projectPath": "D:\\Work\\e-commerce\\Ecom\\Ecom.Entites\\Ecom.Entites.csproj"
             }
           }
         }

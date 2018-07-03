@@ -7,5 +7,6 @@ namespace Ecom.Repository.Contracts
 {
     public interface IUsersRepository : IRepositoryBase<Users>
     {
+
     }
 }
