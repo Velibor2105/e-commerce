@@ -3,6 +3,7 @@ using Ecom.Entites.Models;
 using Ecom.Repository.Contracts;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Ecom.Repository
@@ -11,6 +12,16 @@ namespace Ecom.Repository
     {
         public UsersRepository(RepositoryContext repositoryContext) : base(repositoryContext)
         {
+        }
+
+        public IEnumerable<Users> GetAllUsers()
+        {
+            return FindAll();
+        }
+
+        public Users GetUserById(Guid userId)
+        {
+            return FindByCondition(user => user.UserId.Equals(userId)).FirstOrDefault();
         }
     }
 }

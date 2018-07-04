@@ -7,6 +7,7 @@ namespace Ecom.Repository.Contracts
 {
     public interface IUsersRepository : IRepositoryBase<Users>
     {
-
+        IEnumerable<Users> GetAllUsers();
+        Users GetUserById(Guid userId);
     }
 }

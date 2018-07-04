@@ -35,5 +35,21 @@ namespace Ecom.API.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
+        [HttpGet("{id}")]
+        public IActionResult GetUserById(Guid id)
+        {
+            try
+            {
+                var user = _repository.User.GetUserById(id);
+                _logger.LogInfo($"Returned all users from database");
+                return Ok(user);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Something went wrong inside GetAllUsers action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
     }
 }
