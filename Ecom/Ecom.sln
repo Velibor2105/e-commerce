@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecom.Repository", "Ecom.Rep
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecom.API", "Ecom.API\Ecom.API.csproj", "{54A83DD0-3225-4D18-99E7-E38A7415EAE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.LoggerService", "Ecom.LoggerService\Ecom.LoggerService.csproj", "{CDE57C3E-CAE2-48DB-93BE-AFBB18CA164B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecom.LoggerService", "Ecom.LoggerService\Ecom.LoggerService.csproj", "{CDE57C3E-CAE2-48DB-93BE-AFBB18CA164B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDP", "IDP\IDP.csproj", "{95D6F876-CC97-4D1F-9FDD-23523DEF81B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marvin.IDP", "E:\Building Business Applications with Angular and ASP.NET Core\09\demos\end\TourManagement\Marvin.IDP\Marvin.IDP.csproj", "{D020349D-E79C-47A9-A83F-9B7AEBA07FF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{CDE57C3E-CAE2-48DB-93BE-AFBB18CA164B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE57C3E-CAE2-48DB-93BE-AFBB18CA164B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE57C3E-CAE2-48DB-93BE-AFBB18CA164B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D6F876-CC97-4D1F-9FDD-23523DEF81B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D6F876-CC97-4D1F-9FDD-23523DEF81B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D6F876-CC97-4D1F-9FDD-23523DEF81B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D6F876-CC97-4D1F-9FDD-23523DEF81B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D020349D-E79C-47A9-A83F-9B7AEBA07FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D020349D-E79C-47A9-A83F-9B7AEBA07FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D020349D-E79C-47A9-A83F-9B7AEBA07FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D020349D-E79C-47A9-A83F-9B7AEBA07FF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

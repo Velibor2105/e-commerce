@@ -1,0 +1,11 @@
+D:\Work\e-commerce\Ecom\IDP\bin\Debug\netcoreapp2.0\IDP.deps.json
+D:\Work\e-commerce\Ecom\IDP\bin\Debug\netcoreapp2.0\IDP.runtimeconfig.json
+D:\Work\e-commerce\Ecom\IDP\bin\Debug\netcoreapp2.0\IDP.runtimeconfig.dev.json
+D:\Work\e-commerce\Ecom\IDP\bin\Debug\netcoreapp2.0\IDP.dll
+D:\Work\e-commerce\Ecom\IDP\obj\Debug\netcoreapp2.0\IDP.csprojResolveAssemblyReference.cache
+D:\Work\e-commerce\Ecom\IDP\obj\Debug\netcoreapp2.0\IDP.csproj.CoreCompileInputs.cache
+D:\Work\e-commerce\Ecom\IDP\obj\Debug\netcoreapp2.0\IDP.AssemblyInfoInputs.cache
+D:\Work\e-commerce\Ecom\IDP\obj\Debug\netcoreapp2.0\IDP.AssemblyInfo.cs
+D:\Work\e-commerce\Ecom\IDP\bin\Debug\netcoreapp2.0\IDP.pdb
+D:\Work\e-commerce\Ecom\IDP\obj\Debug\netcoreapp2.0\IDP.dll
+D:\Work\e-commerce\Ecom\IDP\obj\Debug\netcoreapp2.0\IDP.pdb
