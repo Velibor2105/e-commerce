@@ -9,5 +9,8 @@ namespace Ecom.Repository.Contracts
     {
         IEnumerable<Users> GetAllUsers();
         Users GetUserById(Guid userId);
+        void CreateUser(Users user);
+        void UpdateUser(Users dbUser, Users users);
+        void DeleteUser(Users user);
     }
 }

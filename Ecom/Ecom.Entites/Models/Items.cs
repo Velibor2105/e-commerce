@@ -24,8 +24,7 @@ namespace Ecom.Entites.Models
         public byte[] Imagee { get; set; }
 
         [Required(ErrorMessage = "Shop Id is required")]
-        public Guid ShopId { get; set; }    
-
+        public Guid ShopId { get; set; }
     }
 
 }

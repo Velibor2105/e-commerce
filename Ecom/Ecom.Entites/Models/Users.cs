@@ -25,7 +25,6 @@ namespace Ecom.Entites.Models
         public string Phone { get; set; }
 
         [Required(ErrorMessage = "Date created is required")]
-        public string Addres { get; set; }
-         
+        public string Address { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Ecom.Entites;
+using Ecom.Entites.Extensions;
 using Ecom.Entites.Models;
 using Ecom.Repository.Contracts;
 using System;
@@ -14,6 +15,19 @@ namespace Ecom.Repository
         {
         }
 
+        public void CreateUser(Users user)
+        {
+            user.UserId = Guid.NewGuid();
+            Create(user);
+            Save();
+        }
+
+        public void DeleteUser(Users user)
+        {
+            Delete(user);
+            Save();
+        }
+
         public IEnumerable<Users> GetAllUsers()
         {
             return FindAll();
@@ -23,5 +37,13 @@ namespace Ecom.Repository
         {
             return FindByCondition(user => user.UserId.Equals(userId)).FirstOrDefault();
         }
+
+        public void UpdateUser(Users dbUser, Users user)
+        {
+            dbUser.Map(user);
+            Update(dbUser);
+            Save();
+        }
+
     }
 }
