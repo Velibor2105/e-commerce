@@ -37,7 +37,9 @@ namespace Ecom.API
             services.ConfigureSqlServerContext(Configuration);
 
             services.ConfigureRepositoryWrapper();
-            
+
+            services.AddAuthenticationAuthority();
+
             services.AddMvc();
         }
 
@@ -50,6 +52,10 @@ namespace Ecom.API
 
             app.UseCors("CorsPolicy");
 
+            app.UseAuthentication();
+                
+                
+                
             app.UseForwardedHeaders(new ForwardedHeadersOptions
             {
                 ForwardedHeaders = ForwardedHeaders.All

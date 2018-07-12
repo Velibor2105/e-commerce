@@ -3,6 +3,7 @@ using Ecom.LoggerService;
 using Ecom.LoggerService.Contracts;
 using Ecom.Repository;
 using Ecom.Repository.Contracts;
+using IdentityServer4.AccessTokenValidation;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -51,6 +52,15 @@ namespace Ecom.API.Exstensions
         {
             var connectionString = Configuration["sqlserverconnection:connectionString"];
             services.AddDbContext<RepositoryContext>(o => o.UseSqlServer(connectionString));
+        }
+
+        public static void AddAuthenticationAuthority(this IServiceCollection services)
+        {
+            services.AddAuthentication(IdentityServerAuthenticationDefaults.AuthenticationScheme)
+                .AddIdentityServerAuthentication(options => {
+                    options.Authority = "https://localhost:44398/";
+                    options.ApiName = "tourmanagementapi";
+                });
         }
     }
 }

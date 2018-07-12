@@ -7,10 +7,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Ecom.Entites;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Ecom.API.Controllers
 {
     [Route("api/users")]
+    [Authorize]
     public class UsersController : Controller
     {
         private ILoggerManager _logger;
